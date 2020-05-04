@@ -1,4 +1,5 @@
 {
+  "whatever": { "id": "test"},
   "themes": [
     { "id": 0, "name": "History"},
     { "id": 1, "name": "Geography"},
