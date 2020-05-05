@@ -14,8 +14,8 @@
       "wrongAnswer1": "Wrong A1",
       "wrongAnswer2": "Wrong B1",
       "wrongAnswer3": "Wrong C1",
-      "yesNoAnswer" = true,
-      "isTrueFalse" = true
+      "yesNoAnswer": true,
+      "isTrueFalse": true
     },
     {
       "yesNoQuestion": "yes no Q2",
@@ -24,8 +24,8 @@
       "wrongAnswer1": "Wrong A2",
       "wrongAnswer2": "Wrong B2",
       "wrongAnswer3": "Wrong C2",
-      "yesNoAnswer" = false,
-      "isTrueFalse" = true
+      "yesNoAnswer": false,
+      "isTrueFalse": true
     },
     {
       "yesNoQuestion": "yes no Q3",
@@ -34,8 +34,8 @@
       "wrongAnswer1": "Wrong A3",
       "wrongAnswer2": "Wrong B3",
       "wrongAnswer3": "Wrong C3",
-      "yesNoAnswer" = true,
-      "isTrueFalse" = false
+      "yesNoAnswer": true,
+      "isTrueFalse": false
     }
   ],
   "adversary": {"id": "2", "name": "Robert"}
