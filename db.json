@@ -7,7 +7,7 @@
     { "id": 4, "name": "Food"}
    ],
   "adversary": {"id": "2", "name": "Robert"},
-  "test/1": [
+  "test": [
     {
       "yesNoQuestion": "Sarkozy est-il l'actuel Président de la république ?",
       "choiceQuestion": "Qui est l'actuel président de la république ?",
