@@ -7,7 +7,7 @@
     { "id": 4, "name": "Food"}
    ],
   
-  "adversary": {"id": "2", "name": "Robert"}
+  "adversary": {"id": "2", "name": "Robert"},
   
   "themes/1": [
     { "id": 0, "name": "History"}
