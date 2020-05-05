@@ -6,7 +6,7 @@
     { "id": 3, "name": "TV Shows"},
     { "id": 4, "name": "Food"}
    ],
-  "themes/1": [
+  "round": [
     {
       "yesNoQuestion": "yes no Q1",
       "choiceQuestion": "choice Q1",
