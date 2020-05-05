@@ -6,31 +6,5 @@
     { "id": 3, "name": "TV Shows"},
     { "id": 4, "name": "Food"}
    ],
-  "themes/1": [
-    {
-      "yesNoQuestion": "Sarkozy est-il l'actuel Président de la république ?",
-      "choiceQuestion": "Qui est l'actuel président de la république ?",
-      "correctAnswer": "Emmanuel Macron",
-      "wrongAnswer1": "François Mitterrand",
-      "wrongAnswer2": "Nicolas Sarkozy",
-      "wrongAnswer3": "Jacque Chirac"
-    },
-    {
-      "yesNoQuestion": "Sarkozy est-il l'actuel Président de la république ?",
-      "choiceQuestion": "Qui est l'actuel président de la république ?",
-      "correctAnswer": "Emmanuel Macron",
-      "wrongAnswer1": "François Mitterrand",
-      "wrongAnswer2": "Nicolas Sarkozy",
-      "wrongAnswer3": "Jacque Chirac"
-    },
-    {
-      "yesNoQuestion": "Sarkozy est-il l'actuel Président de la république ?",
-      "choiceQuestion": "Qui est l'actuel président de la république ?",
-      "correctAnswer": "Emmanuel Macron",
-      "wrongAnswer1": "François Mitterrand",
-      "wrongAnswer2": "Nicolas Sarkozy",
-      "wrongAnswer3": "Jacque Chirac"
-    }
-  ],
   "adversary": {"id": "2", "name": "Robert"}
 }
