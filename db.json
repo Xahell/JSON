@@ -32,5 +32,5 @@
       "wrongAnswer3": "Jacque Chirac"
     }
   ],
-  "adversary": {"id"= "2", "name"="Robert"}
+  "adversary": {"id": "2", "name": "Robert"}
 }
