@@ -9,7 +9,7 @@
   
   "adversary": {"id": "2", "name": "Robert"},
   
-  "themes/1": [
+  "themes1": [
     { "id": 0, "name": "History"}
  ]
 }
